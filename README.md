@@ -1,16 +1,15 @@
 # inspiration_app
 
-A new Flutter project.
+A new Inspiration App Flutter project.
+
+design view Code by afgprogrammer.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. I Just implement that include in afgprogrammer video on his youtube channel for my practice.
 
-A few resources to get you started if this is your first Flutter project:
+Big Thank's to afgprogrammer who make a video that i use for my practice.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Here is some UI View.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![one](https://user-images.githubusercontent.com/42954205/135797673-07b14a17-c59d-4397-a7e2-6667ca7cfbc1.png)
